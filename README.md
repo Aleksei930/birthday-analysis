@@ -18,3 +18,7 @@ python birthday.py
 python -m pip install pytest
 python -m pytest tests -v
 ```
+
+## Задача № 5
+
+Аналитический обзор этого приложения по критериям индивидуального задания находится в файле [TASK_5_ANALYSIS.md](TASK_5_ANALYSIS.md).
