@@ -18,5 +18,3 @@ python birthday.py
 python -m pip install pytest
 python -m pytest tests -v
 ```
-
-## Задача № 5
